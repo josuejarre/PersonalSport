@@ -1,0 +1,1244 @@
+[
+  {
+    "id": "0001",
+    "name": "3/4 Sit-up",
+    "gif_url": "videos/0001-2gPfomN.gif",
+    "category": "Abs",
+    "target": "Abs",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Recuéstate boca arriba con las rodillas flexionadas y los pies firmes en el suelo.",
+      "Coloca las manos detrás de la cabeza con los codos señalando hacia afuera.",
+      "Contrae los abdominales y eleva el torso hacia las rodillas aproximadamente a un ángulo de 45 grados.",
+      "Pausa un momento en la parte superior y baja lentamente a la posición inicial."
+    ]
+  },
+  {
+    "id": "barbell_bench_press",
+    "name": "Barbell Bench Press",
+    "gif_url": "videos/0001-barbell_bench_press.gif",
+    "category": "Chest",
+    "target": "Chest",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Recuéstate en el banco plano apoyando los pies firmemente en el suelo.",
+      "Saca la barra del soporte con un agarre ligeramente superior al ancho de los hombros.",
+      "Baja la barra de forma controlada hacia la parte media del pecho.",
+      "Empuja la barra verticalmente hasta extender los brazos con fuerza."
+    ]
+  },
+  {
+    "id": "incline_barbell_press",
+    "name": "Incline Barbell Bench Press",
+    "gif_url": "videos/0002-incline_barbell_press.gif",
+    "category": "Chest",
+    "target": "Upper Chest",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Ajusta el banco inclinado a un ángulo de 30 a 45 grados.",
+      "Saca la barra del soporte manteniéndola sobre el pecho superior.",
+      "Baja la barra lentamente hacia el esternón superior.",
+      "Empuja verticalmente hacia arriba manteniendo las escápulas retraídas."
+    ]
+  },
+  {
+    "id": "incline_dumbbell_press",
+    "name": "Incline Dumbbell Press",
+    "gif_url": "videos/0003-incline_dumbbell_press.gif",
+    "category": "Chest",
+    "target": "Upper Chest",
+    "equipment": "Dumbbell",
+    "instruction_steps": [
+      "Siéntate en un banco inclinado sosteniendo un par de mancuernas.",
+      "Eleva las mancuernas a la altura de los hombros con las palmas hacia adelante.",
+      "Empuja las mancuernas hacia arriba hasta juntarlas casi por completo.",
+      "Baja con control sintiendo el estiramiento en la parte superior del pecho."
+    ]
+  },
+  {
+    "id": "dumbbell_fly",
+    "name": "Dumbbell Fly",
+    "gif_url": "videos/0004-dumbbell_fly.gif",
+    "category": "Chest",
+    "target": "Chest",
+    "equipment": "Dumbbell",
+    "instruction_steps": [
+      "Recuéstate en un banco plano sosteniendo las mancuernas sobre el pecho.",
+      "Mapea una ligera flexión en los codos y abre los brazos en un arco amplio.",
+      "Baja hasta sentir un estiramiento suave en los pectorales.",
+      "Junta las mancuernas de nuevo sobre el centro del pecho contrayendo el pectoral."
+    ]
+  },
+  {
+    "id": "cable_fly",
+    "name": "Cable Fly",
+    "gif_url": "videos/0005-cable_fly.gif",
+    "category": "Chest",
+    "target": "Chest",
+    "equipment": "Cable",
+    "instruction_steps": [
+      "Colócate de pie en el centro de las poleas con un pie adelantado.",
+      "Tira de los agarres en arco hacia adelante hasta juntar las manos al frente del pecho.",
+      "Aprieta los pectorales en la máxima contracción y regresa lentamente."
+    ]
+  },
+  {
+    "id": "decline_bench_press",
+    "name": "Decline Bench Press",
+    "gif_url": "videos/0006-decline_bench_press.gif",
+    "category": "Chest",
+    "target": "Lower Chest",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "En banco declinado, baja la barra a la parte inferior del pecho.",
+      "Empuja extendiendo con control."
+    ]
+  },
+  {
+    "id": "machine_chest_press",
+    "name": "Machine Chest Press",
+    "gif_url": "videos/0007-machine_chest_press.gif",
+    "category": "Chest",
+    "target": "Chest",
+    "equipment": "Machine",
+    "instruction_steps": [
+      "Ajusta el asiento de la máquina.",
+      "Empuja las palancas hacia adelante extendiendo el pecho."
+    ]
+  },
+  {
+    "id": "pec_deck_fly",
+    "name": "Pec Deck Fly",
+    "gif_url": "videos/0008-pec_deck_fly.gif",
+    "category": "Chest",
+    "target": "Chest",
+    "equipment": "Machine",
+    "instruction_steps": [
+      "Junta las almohadillas frente al pecho contrayendo el pectoral.",
+      "Abre lentamente hasta sentir estiramiento."
+    ]
+  },
+  {
+    "id": "push_up",
+    "name": "Push-Up",
+    "gif_url": "videos/0009-push_up.gif",
+    "category": "Calisthenics",
+    "target": "Chest",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Coloca las manos a la anchura de los hombros y mantén el cuerpo rígido en plancha.",
+      "Baja el pecho hacia el suelo doblando los codos a 45 grados.",
+      "Empuja el suelo con fuerza hasta extender completamente los brazos."
+    ]
+  },
+  {
+    "id": "diamond_push_up",
+    "name": "Diamond Push-Up",
+    "gif_url": "videos/0010-diamond_push_up.gif",
+    "category": "Calisthenics",
+    "target": "Triceps & Chest",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Forma un diamante con las manos bajo el pecho.",
+      "Baja lentamente y empuja activando tríceps y pecho."
+    ]
+  },
+  {
+    "id": "chest_dips",
+    "name": "Chest Dips",
+    "gif_url": "videos/0011-chest_dips.gif",
+    "category": "Calisthenics",
+    "target": "Lower Chest",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Sujétate en las paralelas e inclina el torso ligeramente hacia adelante.",
+      "Baja flexionando codos a 90 grados sintiendo la tensión en el pecho inferior.",
+      "Empuja fuertemente hacia arriba extendiendo los brazos."
+    ]
+  },
+  {
+    "id": "landmine_press",
+    "name": "Landmine Press",
+    "gif_url": "videos/0012-landmine_press.gif",
+    "category": "Chest",
+    "target": "Upper Chest",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Sostén el extremo de la barra Landmine.",
+      "Empuja en diagonal hacia adelante y arriba."
+    ]
+  },
+  {
+    "id": "decline_push_up",
+    "name": "Decline Push-Up",
+    "gif_url": "videos/0013-decline_push_up.gif",
+    "category": "Calisthenics",
+    "target": "Upper Chest",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Coloca los pies elevados en un banco.",
+      "Realiza la flexión enfocado en la parte superior del pecho."
+    ]
+  },
+  {
+    "id": "incline_dumbbell_fly",
+    "name": "Incline Dumbbell Fly",
+    "gif_url": "videos/0014-incline_dumbbell_fly.gif",
+    "category": "Chest",
+    "target": "Upper Chest",
+    "equipment": "Dumbbell",
+    "instruction_steps": [
+      "En banco inclinado abre los brazos en arco suave.",
+      "Junta las mancuernas arriba contrayendo el pecho superior."
+    ]
+  },
+  {
+    "id": "cable_lower_chest_fly",
+    "name": "Cable Lower Chest Fly",
+    "gif_url": "videos/0015-cable_lower_chest_fly.gif",
+    "category": "Chest",
+    "target": "Upper Chest",
+    "equipment": "Cable",
+    "instruction_steps": [
+      "Tira de las poleas desde abajo hacia arriba juntando las manos.",
+      "Regresa con control."
+    ]
+  },
+  {
+    "id": "archer_push_up",
+    "name": "Archer Push-Up",
+    "gif_url": "videos/0016-archer_push_up.gif",
+    "category": "Calisthenics",
+    "target": "Chest",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Desciende hacia un lado extendiendo el brazo opuesto.",
+      "Empuja y alterna de lado."
+    ]
+  },
+  {
+    "id": "smith_machine_bench_press",
+    "name": "Smith Machine Bench Press",
+    "gif_url": "videos/0017-smith_machine_bench_press.gif",
+    "category": "Chest",
+    "target": "Chest",
+    "equipment": "Machine",
+    "instruction_steps": [
+      "Empuja la barra guiada verticalmente.",
+      "Baja con control sobre el pecho."
+    ]
+  },
+  {
+    "id": "lat_pulldown",
+    "name": "Lat Pulldown",
+    "gif_url": "videos/0020-lat_pulldown.gif",
+    "category": "Back",
+    "target": "Back",
+    "equipment": "Cable",
+    "instruction_steps": [
+      "Sujeta la barra de la polea alta con un agarre ancho.",
+      "Siéntate ajustando los rodillos sobre los muslos y saca el pecho.",
+      "Tira de la barra hacia la parte superior del pecho llevando los codos hacia abajo y atrás.",
+      "Regresa la barra de forma pausada hasta la extensión completa de brazos."
+    ]
+  },
+  {
+    "id": "cable_lat_pulldown",
+    "name": "Cable Lat Pulldown",
+    "gif_url": "videos/0021-cable_lat_pulldown.gif",
+    "category": "Back",
+    "target": "Back",
+    "equipment": "Cable",
+    "instruction_steps": [
+      "Tira de los cables hacia abajo enfocando la tensión en dorsales.",
+      "Vuelve a la posición alta con control."
+    ]
+  },
+  {
+    "id": "barbell_row",
+    "name": "Barbell Row",
+    "gif_url": "videos/0022-barbell_row.gif",
+    "category": "Back",
+    "target": "Back",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Inclina el torso a 45 grados manteniendo la espalda completamente neutra.",
+      "Tira de la barra hacia el ombligo guiando con los codos hacia atrás.",
+      "Aprieta los dorsales y la espalda media arriba y desciende suavemente."
+    ]
+  },
+  {
+    "id": "dumbbell_row",
+    "name": "Dumbbell Row",
+    "gif_url": "videos/0023-dumbbell_row.gif",
+    "category": "Back",
+    "target": "Back",
+    "equipment": "Dumbbell",
+    "instruction_steps": [
+      "Apoya una rodilla y mano sobre el banco plano.",
+      "Tira de la mancuerna hacia la cadera llevando el codo bien alto.",
+      "Desciende la mancuerna hasta extender el brazo sintiendo el estiramiento dorsal."
+    ]
+  },
+  {
+    "id": "pull_up",
+    "name": "Pull-up",
+    "gif_url": "videos/0024-pull_up.gif",
+    "category": "Calisthenics",
+    "target": "Back",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Sujeta la barra de dominadas con agarre prono más ancho que los hombros.",
+      "Tira del cuerpo hacia arriba activando la espalda hasta que la barbilla supere la barra.",
+      "Baja lentamente con control completo hasta colgar de nuevo con brazos extendidos."
+    ]
+  },
+  {
+    "id": "chin_up",
+    "name": "Chin-Up",
+    "gif_url": "videos/0025-chin_up.gif",
+    "category": "Calisthenics",
+    "target": "Back & Biceps",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Agarre supino (palmas hacia ti).",
+      "Sube la barbilla sobre la barra enfocado en bíceps y dorsal."
+    ]
+  },
+  {
+    "id": "seated_cable_row",
+    "name": "Seated Cable Row",
+    "gif_url": "videos/0026-seated_cable_row.gif",
+    "category": "Back",
+    "target": "Middle Back",
+    "equipment": "Cable",
+    "instruction_steps": [
+      "Siéntate con las rodillas ligeramente flexionadas y sostiene el maneral en V.",
+      "Tira del agarre hacia el abdomen retrayendo las escápulas con el pecho erguido.",
+      "Regresa los brazos lentamente al frente sin encorvar la columna."
+    ]
+  },
+  {
+    "id": "t_bar_row",
+    "name": "T-Bar Row",
+    "gif_url": "videos/0027-t_bar_row.gif",
+    "category": "Back",
+    "target": "Back",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Tracciona el agarre neutro de la barra T hacia el pecho.",
+      "Aprieta la espalda media y desciende."
+    ]
+  },
+  {
+    "id": "hyperextension",
+    "name": "Hyperextension",
+    "gif_url": "videos/0028-hyperextension.gif",
+    "category": "Back",
+    "target": "Lower Back",
+    "equipment": "Machine",
+    "instruction_steps": [
+      "Flexiona la cadera en el banco a 45 grados.",
+      "Eleva el torso alinear con la columna."
+    ]
+  },
+  {
+    "id": "straight_arm_pulldown",
+    "name": "Straight Arm Pulldown",
+    "gif_url": "videos/0029-straight_arm_pulldown.gif",
+    "category": "Back",
+    "target": "Back",
+    "equipment": "Cable",
+    "instruction_steps": [
+      "Brazos casi extendidos, empuja la barra hacia los muslos.",
+      "Aísla los dorsales en el recorrido."
+    ]
+  },
+  {
+    "id": "face_pull",
+    "name": "Face Pull",
+    "gif_url": "videos/0030-face_pull.gif",
+    "category": "Back",
+    "target": "Rear Delt",
+    "equipment": "Cable",
+    "instruction_steps": [
+      "Ajusta la polea con cuerda a la altura del rostro.",
+      "Tira de la cuerda hacia la cara separando las manos y rotando los hombros externamente.",
+      "Mantén un segundo la contracción en los deltoides posteriores y regresa."
+    ]
+  },
+  {
+    "id": "barbell_shrug",
+    "name": "Barbell Shrug",
+    "gif_url": "videos/0031-barbell_shrug.gif",
+    "category": "Back",
+    "target": "Traps",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Eleva los hombros hacia las orejas sin doblar codos.",
+      "Baja despacio."
+    ]
+  },
+  {
+    "id": "australian_pull_up",
+    "name": "Australian Pull-Up",
+    "gif_url": "videos/0032-australian_pull_up.gif",
+    "category": "Calisthenics",
+    "target": "Back",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Colocado bajo una barra baja en diagonal.",
+      "Tira del pecho hacia la barra manteniendo el cuerpo plano."
+    ]
+  },
+  {
+    "id": "pendlay_row",
+    "name": "Pendlay Row",
+    "gif_url": "videos/0033-pendlay_row.gif",
+    "category": "Back",
+    "target": "Back",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Torso paralelo al suelo. Inicia cada repetición desde el suelo de forma explosiva."
+    ]
+  },
+  {
+    "id": "close_grip_lat_pulldown",
+    "name": "Close Grip Lat Pulldown",
+    "gif_url": "videos/0034-close_grip_lat_pulldown.gif",
+    "category": "Back",
+    "target": "Back",
+    "equipment": "Cable",
+    "instruction_steps": [
+      "Tira del maneral V hacia el pecho superior.",
+      "Extiende arriba con control."
+    ]
+  },
+  {
+    "id": "one_arm_cable_row",
+    "name": "One Arm Cable Row",
+    "gif_url": "videos/0035-one_arm_cable_row.gif",
+    "category": "Back",
+    "target": "Back",
+    "equipment": "Cable",
+    "instruction_steps": [
+      "Tracción unilateral hacia la cadera.",
+      "Consigue un estiramiento profundo."
+    ]
+  },
+  {
+    "id": "barbell_squat",
+    "name": "Barbell Squat",
+    "gif_url": "videos/0040-barbell_squat.gif",
+    "category": "Legs",
+    "target": "Quads",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Coloca la barra sobre los trapecios y retírala del soporte.",
+      "Baja doblando rodillas y cadera hasta romper el paralelo de 90 grados.",
+      "Empuja firmemente a través de los talones para volver a la posición de pie."
+    ]
+  },
+  {
+    "id": "front_squat",
+    "name": "Front Squat",
+    "gif_url": "videos/0041-front_squat.gif",
+    "category": "Legs",
+    "target": "Quads",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Barra en apoyo anterior sobre deltoides.",
+      "Sentadilla profunda con torso erguido."
+    ]
+  },
+  {
+    "id": "leg_press",
+    "name": "Leg Press",
+    "gif_url": "videos/0042-leg_press.gif",
+    "category": "Legs",
+    "target": "Legs",
+    "equipment": "Machine",
+    "instruction_steps": [
+      "Apoya los pies a la anchura de los hombros en la plataforma de la prensa.",
+      "Baja la carga hasta un ángulo de 90 grados en las rodillas.",
+      "Empuja la plataforma de vuelta a la posición inicial sin bloquear las rodillas."
+    ]
+  },
+  {
+    "id": "romanian_deadlift",
+    "name": "Romanian Deadlift",
+    "gif_url": "videos/0043-romanian_deadlift.gif",
+    "category": "Legs",
+    "target": "Hamstrings",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Sostén la barra con un agarre a la anchura de los hombros.",
+      "Empuja la cadera hacia atrás deslizando la barra por los muslos con rodillas semiflexionadas.",
+      "Siente el estiramiento profundo en los isquiotibiales y vuelve a la posición vertical."
+    ]
+  },
+  {
+    "id": "deadlift",
+    "name": "Deadlift",
+    "gif_url": "videos/0044-deadlift.gif",
+    "category": "Legs",
+    "target": "Posterior Chain",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Colócate frente a la barra con las espinillas pegadas.",
+      "Flexiona cadera y rodillas, sujeta la barra y saca el pecho.",
+      "Empuja el suelo con las piernas extendiendo cadera y rodillas simultáneamente hasta quedar erguido."
+    ]
+  },
+  {
+    "id": "leg_extension",
+    "name": "Leg Extension",
+    "gif_url": "videos/0045-leg_extension.gif",
+    "category": "Legs",
+    "target": "Quads",
+    "equipment": "Machine",
+    "instruction_steps": [
+      "Ajusta el rodillo de la máquina sobre los tobillos.",
+      "Extiende las piernas elevando la carga hasta bloquear suavemente arriba.",
+      "Aprieta los cuadríceps y desciende lentamente."
+    ]
+  },
+  {
+    "id": "lying_leg_curl",
+    "name": "Lying Leg Curl",
+    "gif_url": "videos/0046-lying_leg_curl.gif",
+    "category": "Legs",
+    "target": "Hamstrings",
+    "equipment": "Machine",
+    "instruction_steps": [
+      "Túmbate boca abajo en la máquina con el rodillo tras los tobillos.",
+      "Flexiona las piernas llevando los talones hacia los glúteos.",
+      "Controla el descenso de la carga bajando lentamente."
+    ]
+  },
+  {
+    "id": "bulgarian_split_squat",
+    "name": "Bulgarian Split Squat",
+    "gif_url": "videos/0047-bulgarian_split_squat.gif",
+    "category": "Legs",
+    "target": "Quads & Glutes",
+    "equipment": "Dumbbell",
+    "instruction_steps": [
+      "Apoya el empeine del pie trasero sobre un banco plano.",
+      "Baja verticalmente sobre la pierna delantera hasta que el muslo quede paralelo al suelo.",
+      "Empuja con la pierna delantera para elevarte a la posición inicial."
+    ]
+  },
+  {
+    "id": "goblet_squat",
+    "name": "Goblet Squat",
+    "gif_url": "videos/0048-goblet_squat.gif",
+    "category": "Legs",
+    "target": "Quads",
+    "equipment": "Dumbbell",
+    "instruction_steps": [
+      "Sostén una mancuerna o pesas frente al pecho.",
+      "Sentadilla profunda con codos rozando interior de rodillas."
+    ]
+  },
+  {
+    "id": "standing_calf_raise",
+    "name": "Standing Calf Raise",
+    "gif_url": "videos/0049-standing_calf_raise.gif",
+    "category": "Legs",
+    "target": "Calves",
+    "equipment": "Machine",
+    "instruction_steps": [
+      "Colócate con las puntas de los pies en el escalón y los talones colgados.",
+      "Eleva los talones lo más alto posible contrayendo los gemelos.",
+      "Baja los talones por debajo del nivel del escalón sintiendo el estiramiento."
+    ]
+  },
+  {
+    "id": "seated_calf_raise",
+    "name": "Seated Calf Raise",
+    "gif_url": "videos/0050-seated_calf_raise.gif",
+    "category": "Legs",
+    "target": "Soleus",
+    "equipment": "Machine",
+    "instruction_steps": [
+      "Eleva talones desde posición sentado enfocando el músculo sóleo."
+    ]
+  },
+  {
+    "id": "hip_thrust",
+    "name": "Hip Thrust",
+    "gif_url": "videos/0051-hip_thrust.gif",
+    "category": "Legs",
+    "target": "Glutes",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Apoya la parte alta de la espalda en el banco con la barra sobre la pelvis.",
+      "Empuja la cadera hacia arriba apretando fuertemente los glúteos al final del recorrido.",
+      "Baja la cadera con control hasta rozar casi el suelo y repite."
+    ]
+  },
+  {
+    "id": "lunges",
+    "name": "Lunges",
+    "gif_url": "videos/0052-lunges.gif",
+    "category": "Legs",
+    "target": "Quads & Glutes",
+    "equipment": "Dumbbell",
+    "instruction_steps": [
+      "Da un paso amplio hacia adelante con una pierna.",
+      "Baja el cuerpo hasta que ambas rodillas formen ángulos de 90 grados.",
+      "Empuja hacia atrás con el pie delantero para regresar de pie y alterna de pierna."
+    ]
+  },
+  {
+    "id": "hack_squat",
+    "name": "Hack Squat",
+    "gif_url": "videos/0053-hack_squat.gif",
+    "category": "Legs",
+    "target": "Quads",
+    "equipment": "Machine",
+    "instruction_steps": [
+      "Sentadilla guiada en máquina Hack.",
+      "Baja a 90 grados y empuja con potencia."
+    ]
+  },
+  {
+    "id": "bodyweight_squat",
+    "name": "Bodyweight Squat",
+    "gif_url": "videos/0054-bodyweight_squat.gif",
+    "category": "Calisthenics",
+    "target": "Quads",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Sentadilla libre con peso corporal.",
+      "Mantén el tronco firme y la bajada controlada."
+    ]
+  },
+  {
+    "id": "zercher_squat",
+    "name": "Zercher Squat",
+    "gif_url": "videos/0055-zercher_squat.gif",
+    "category": "Legs",
+    "target": "Quads & Core",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Sostén la barra en el pliegue de los codos.",
+      "Sentadilla profunda activando core y cuadríceps."
+    ]
+  },
+  {
+    "id": "nordic_hamstring_curl",
+    "name": "Nordic Hamstring Curl",
+    "gif_url": "videos/0056-nordic_hamstring_curl.gif",
+    "category": "Calisthenics",
+    "target": "Hamstrings",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "De rodillas con tobillos fijados, baja el torso frenando con los femorales."
+    ]
+  },
+  {
+    "id": "pistol_squat",
+    "name": "Pistol Squat",
+    "gif_url": "videos/0057-pistol_squat.gif",
+    "category": "Calisthenics",
+    "target": "Quads",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Sentadilla unilateral profunda con la otra pierna extendida al frente."
+    ]
+  },
+  {
+    "id": "overhead_press",
+    "name": "Overhead Press",
+    "gif_url": "videos/0060-overhead_press.gif",
+    "category": "Shoulders",
+    "target": "Shoulders",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Sostén la barra sobre las clavículas con cuerpo erguido.",
+      "Empuja la barra verticalmente sobre la cabeza hasta bloquear los codos.",
+      "Baja la barra de vuelta a la clavícula con trayectoria controlada."
+    ]
+  },
+  {
+    "id": "overhead_dumbbell_press",
+    "name": "Overhead Dumbbell Press",
+    "gif_url": "videos/0061-overhead_dumbbell_press.gif",
+    "category": "Shoulders",
+    "target": "Shoulders",
+    "equipment": "Dumbbell",
+    "instruction_steps": [
+      "Siéntate en banco vertical sosteniendo las mancuernas a la altura de las orejas.",
+      "Empuja las mancuernas hacia arriba sobre la cabeza hasta juntarlas levemente.",
+      "Baja las mancuernas despacio hasta la altura de los hombros."
+    ]
+  },
+  {
+    "id": "lateral_raise",
+    "name": "Lateral Raise",
+    "gif_url": "videos/0062-lateral_raise.gif",
+    "category": "Shoulders",
+    "target": "Lateral Delt",
+    "equipment": "Dumbbell",
+    "instruction_steps": [
+      "De pie sosteniendo un par de mancuernas a los costados.",
+      "Eleva los brazos hacia los lados hasta la altura de los hombros guiando con los codos.",
+      "Baja lentamente manteniendo la tensión en el deltoide lateral."
+    ]
+  },
+  {
+    "id": "front_raise",
+    "name": "Front Raise",
+    "gif_url": "videos/0063-front_raise.gif",
+    "category": "Shoulders",
+    "target": "Front Delt",
+    "equipment": "Dumbbell",
+    "instruction_steps": [
+      "Eleva las mancuernas al frente de ti hasta la altura de los ojos.",
+      "Mantén los brazos casi extendidos y baja con control."
+    ]
+  },
+  {
+    "id": "reverse_fly",
+    "name": "Reverse Fly",
+    "gif_url": "videos/0064-reverse_fly.gif",
+    "category": "Shoulders",
+    "target": "Rear Delt",
+    "equipment": "Dumbbell",
+    "instruction_steps": [
+      "Inclinado hacia adelante abre los brazos lateralmente enfocado en deltoide posterior."
+    ]
+  },
+  {
+    "id": "arnold_press",
+    "name": "Arnold Press",
+    "gif_url": "videos/0065-arnold_press.gif",
+    "category": "Shoulders",
+    "target": "Deltoids",
+    "equipment": "Dumbbell",
+    "instruction_steps": [
+      "Sostiene las mancuernas frente al pecho con las palmas mirando hacia ti.",
+      "Rota las muñecas hacia afuera a medida que empujas las mancuernas hacia arriba.",
+      "Invierte la rotación durante el descenso."
+    ]
+  },
+  {
+    "id": "upright_row",
+    "name": "Upright Row",
+    "gif_url": "videos/0066-upright_row.gif",
+    "category": "Shoulders",
+    "target": "Shoulders & Traps",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Eleva la barra pegada al torso elevando codos por encima de manos."
+    ]
+  },
+  {
+    "id": "pike_push_up",
+    "name": "Pike Push-Up",
+    "gif_url": "videos/0067-pike_push_up.gif",
+    "category": "Calisthenics",
+    "target": "Shoulders",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Cuerpo en V invertida con cadera alta.",
+      "Baja la cabeza en diagonal y empuja activando hombros."
+    ]
+  },
+  {
+    "id": "handstand_push_up",
+    "name": "Handstand Push-Up",
+    "gif_url": "videos/0068-handstand_push_up.gif",
+    "category": "Calisthenics",
+    "target": "Shoulders",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Flexiones en pino vertical apoyado en la pared."
+    ]
+  },
+  {
+    "id": "dumbbell_curl",
+    "name": "Dumbbell Curl",
+    "gif_url": "videos/0070-dumbbell_curl.gif",
+    "category": "Arms",
+    "target": "Biceps",
+    "equipment": "Dumbbell",
+    "instruction_steps": [
+      "Sostén mancuernas a los lados y flexiona los codos supinando las muñecas.",
+      "Aprieta los bíceps arriba y desciende pausadamente."
+    ]
+  },
+  {
+    "id": "barbell_curl",
+    "name": "Barbell Curl",
+    "gif_url": "videos/0071-barbell_curl.gif",
+    "category": "Arms",
+    "target": "Biceps",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Sujeta la barra con agarre supino a la anchura de los hombros.",
+      "Flexiona los codos llevando la barra hacia el pecho sin mover los codos de los costados.",
+      "Baja lentamente."
+    ]
+  },
+  {
+    "id": "hammer_curl",
+    "name": "Hammer Curl",
+    "gif_url": "videos/0072-hammer_curl.gif",
+    "category": "Arms",
+    "target": "Brachialis",
+    "equipment": "Dumbbell",
+    "instruction_steps": [
+      "Sostén mancuernas con agarre neutro (palmas enfrentadas).",
+      "Eleva las mancuernas enfocando en el braquial y antebrazo.",
+      "Baja con ritmo suave."
+    ]
+  },
+  {
+    "id": "preacher_curl",
+    "name": "Preacher Curl",
+    "gif_url": "videos/0073-preacher_curl.gif",
+    "category": "Arms",
+    "target": "Biceps",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Flexión de bíceps aislada con los brazos apoyados en el banco Scott."
+    ]
+  },
+  {
+    "id": "cable_triceps_pushdown",
+    "name": "Cable Triceps Pushdown",
+    "gif_url": "videos/0074-cable_triceps_pushdown.gif",
+    "category": "Arms",
+    "target": "Triceps",
+    "equipment": "Cable",
+    "instruction_steps": [
+      "Mantén los codos pegados a los costados.",
+      "Empuja el agarre de la polea hacia abajo hasta extender completamente los brazos.",
+      "Regresa suavemente sintiendo la tensión en los tríceps."
+    ]
+  },
+  {
+    "id": "triceps_dips",
+    "name": "Dips",
+    "gif_url": "videos/0075-triceps_dips.gif",
+    "category": "Calisthenics",
+    "target": "Triceps & Chest",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Suspéndete en las barras paralelas con los brazos extendidos.",
+      "Baja doblando los codos a 90 grados manteniéndote erguido.",
+      "Empuja hacia arriba con fuerza de los tríceps hasta bloquear."
+    ]
+  },
+  {
+    "id": "skullcrusher",
+    "name": "Skullcrusher",
+    "gif_url": "videos/0076-skullcrusher.gif",
+    "category": "Arms",
+    "target": "Triceps",
+    "equipment": "Barbell",
+    "instruction_steps": [
+      "Acostado en banco, baja la barra Z hacia la frente doblando solo los codos.",
+      "Extiende los brazos arriba apretando los tríceps."
+    ]
+  },
+  {
+    "id": "concentration_curl",
+    "name": "Concentration Curl",
+    "gif_url": "videos/0077-concentration_curl.gif",
+    "category": "Arms",
+    "target": "Biceps Peak",
+    "equipment": "Dumbbell",
+    "instruction_steps": [
+      "Codo apoyado en la cara interna del muslo. Flexión estricta de bíceps."
+    ]
+  },
+  {
+    "id": "overhead_triceps_extension",
+    "name": "Overhead Triceps Extension",
+    "gif_url": "videos/0078-overhead_triceps_extension.gif",
+    "category": "Arms",
+    "target": "Triceps Long Head",
+    "equipment": "Dumbbell",
+    "instruction_steps": [
+      "Sostén la mancuerna tras la cabeza y extiende verticalmente."
+    ]
+  },
+  {
+    "id": "bench_dips",
+    "name": "Bench Dips",
+    "gif_url": "videos/0079-bench_dips.gif",
+    "category": "Calisthenics",
+    "target": "Triceps",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Fondos en el borde del banco apoyando las manos."
+    ]
+  },
+  {
+    "id": "cable_bicep_curl",
+    "name": "Cable Bicep Curl",
+    "gif_url": "videos/0080-cable_bicep_curl.gif",
+    "category": "Arms",
+    "target": "Biceps",
+    "equipment": "Cable",
+    "instruction_steps": [
+      "Curl con barra en polea baja con tensión constante."
+    ]
+  },
+  {
+    "id": "incline_dumbbell_curl",
+    "name": "Incline Dumbbell Curl",
+    "gif_url": "videos/0081-incline_dumbbell_curl.gif",
+    "category": "Arms",
+    "target": "Biceps Long Head",
+    "equipment": "Dumbbell",
+    "instruction_steps": [
+      "Flexión de bíceps desde estiramiento profundo en banco inclinado."
+    ]
+  },
+  {
+    "id": "cable_kickback",
+    "name": "Cable Kickback",
+    "gif_url": "videos/0082-cable_kickback.gif",
+    "category": "Arms",
+    "target": "Triceps",
+    "equipment": "Cable",
+    "instruction_steps": [
+      "Extensión trasera de tríceps en polea baja."
+    ]
+  },
+  {
+    "id": "hanging_leg_raise",
+    "name": "Hanging Leg Raise",
+    "gif_url": "videos/0090-hanging_leg_raise.gif",
+    "category": "Abs",
+    "target": "Lower Abs",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Colgado de la barra de dominadas, eleva las piernas rectas a 90 grados.",
+      "Contrae el abdomen sin generar inercia ni balanceo.",
+      "Baja las piernas lentamente."
+    ]
+  },
+  {
+    "id": "plank_hold",
+    "name": "Plank Hold",
+    "gif_url": "videos/0091-plank_hold.gif",
+    "category": "Abs",
+    "target": "Core",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Apóyate sobre los antebrazos y las puntas de los pies.",
+      "Mantén el cuerpo completamente alineado en tabla apretando el core.",
+      "Sostén la posición isométrica durante el tiempo determinado."
+    ]
+  },
+  {
+    "id": "ab_wheel_rollout",
+    "name": "Ab Wheel Rollout",
+    "gif_url": "videos/0092-ab_wheel_rollout.gif",
+    "category": "Abs",
+    "target": "Core",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Rueda la rueda abdominal hacia adelante manteniendo la lumbar neutra."
+    ]
+  },
+  {
+    "id": "cable_woodchopper",
+    "name": "Cable Woodchopper",
+    "gif_url": "videos/0093-cable_woodchopper.gif",
+    "category": "Abs",
+    "target": "Obliques",
+    "equipment": "Cable",
+    "instruction_steps": [
+      "Rotación de torso en polea diagonal para oblicuos."
+    ]
+  },
+  {
+    "id": "russian_twist",
+    "name": "Russian Twist",
+    "gif_url": "videos/0094-russian_twist.gif",
+    "category": "Abs",
+    "target": "Obliques",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Rotación de torso de lado a lado con pies flotando."
+    ]
+  },
+  {
+    "id": "mountain_climbers",
+    "name": "Mountain Climbers",
+    "gif_url": "videos/0095-mountain_climbers.gif",
+    "category": "Abs",
+    "target": "Core & Cardio",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Lleva las rodillas alternadas hacia el pecho a ritmo ágil."
+    ]
+  },
+  {
+    "id": "l_sit",
+    "name": "L-Sit",
+    "gif_url": "videos/0096-l_sit.gif",
+    "category": "Calisthenics",
+    "target": "Core",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Sostén las piernas extendidas horizontalmente formando una L."
+    ]
+  },
+  {
+    "id": "dragon_flag",
+    "name": "Dragon Flag",
+    "gif_url": "videos/0097-dragon_flag.gif",
+    "category": "Calisthenics",
+    "target": "Core",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Eleva el cuerpo rígido apoyando solo escápulas en el banco."
+    ]
+  },
+  {
+    "id": "decline_crunch",
+    "name": "Decline Crunch",
+    "gif_url": "videos/0098-decline_crunch.gif",
+    "category": "Abs",
+    "target": "Abs",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Abdominales en banco declinado."
+    ]
+  },
+  {
+    "id": "bicycle_crunch",
+    "name": "Bicycle Crunch",
+    "gif_url": "videos/0099-bicycle_crunch.gif",
+    "category": "Abs",
+    "target": "Obliques",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Toca rodilla opuesta con codo en movimiento continuo de pedaleo."
+    ]
+  },
+  {
+    "id": "muscle_up",
+    "name": "Muscle-Up",
+    "gif_url": "videos/0100-muscle_up.gif",
+    "category": "Calisthenics",
+    "target": "Full Body",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Transición explosiva sobre la barra de dominada a fondo."
+    ]
+  },
+  {
+    "id": "ring_dips",
+    "name": "Ring Dips",
+    "gif_url": "videos/0101-ring_dips.gif",
+    "category": "Calisthenics",
+    "target": "Chest & Triceps",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Fondos de pecho y tríceps con inestabilidad en anillas."
+    ]
+  },
+  {
+    "id": "burpees",
+    "name": "Burpees",
+    "gif_url": "videos/0102-burpees.gif",
+    "category": "Calisthenics",
+    "target": "Full Body",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Agáchate, apoya las manos y salta con los pies hacia atrás a postura de plancha.",
+      "Realiza una flexión de pecho, recoge los pies de un salto.",
+      "Explota hacia arriba realizando un salto vertical con las manos sobre la cabeza."
+    ]
+  },
+  {
+    "id": "jumping_jacks",
+    "name": "Jumping Jacks",
+    "gif_url": "videos/0103-jumping_jacks.gif",
+    "category": "Calisthenics",
+    "target": "Cardio",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Saltos de tijera abriendo simultáneamente brazos y piernas."
+    ]
+  },
+  {
+    "id": "box_jumps",
+    "name": "Box Jumps",
+    "gif_url": "videos/0104-box_jumps.gif",
+    "category": "Calisthenics",
+    "target": "Leg Power",
+    "equipment": "Bodyweight",
+    "instruction_steps": [
+      "Salto pliométrico explosivo sobre el cajón."
+    ]
+  },
+  {
+    "id": "running_endurance",
+    "name": "Running",
+    "gif_url": "videos/0110-running_endurance.gif",
+    "category": "Running",
+    "target": "Cardio",
+    "equipment": "Track",
+    "instruction_steps": [
+      "Mantén postura erguida con la mirada hacia adelante.",
+      "Zancada fluida apoyando el metatarso con buena cadencia.",
+      "Braceo rítmico coordinado con la respiración."
+    ]
+  },
+  {
+    "id": "interval_sprints",
+    "name": "Interval Sprints",
+    "gif_url": "videos/0111-interval_sprints.gif",
+    "category": "Running",
+    "target": "Cardio",
+    "equipment": "Track",
+    "instruction_steps": [
+      "Aceleraciones explosivas a máxima velocidad durante el intervalo programado.",
+      "Recupera con trote suave o caminata entre series."
+    ]
+  },
+  {
+    "id": "hill_sprints",
+    "name": "Hill Sprints",
+    "gif_url": "videos/0112-hill_sprints.gif",
+    "category": "Running",
+    "target": "Cardio",
+    "equipment": "Track",
+    "instruction_steps": [
+      "Sprint en cuesta Inclinada con braceo potente."
+    ]
+  },
+  {
+    "id": "tempo_run",
+    "name": "Tempo Run",
+    "gif_url": "videos/0113-tempo_run.gif",
+    "category": "Running",
+    "target": "Cardio",
+    "equipment": "Track",
+    "instruction_steps": [
+      "Carrera a ritmo de umbral anaeróbico."
+    ]
+  },
+  {
+    "id": "treadmill_running",
+    "name": "Treadmill Running",
+    "gif_url": "videos/0114-treadmill_running.gif",
+    "category": "Running",
+    "target": "Cardio",
+    "equipment": "Track",
+    "instruction_steps": [
+      "Trote continuo en cinta."
+    ]
+  },
+  {
+    "id": "high_knees",
+    "name": "High Knees",
+    "gif_url": "videos/0115-high_knees.gif",
+    "category": "Running",
+    "target": "Cardio",
+    "equipment": "Track",
+    "instruction_steps": [
+      "Elevación de rodillas a alta cadencia."
+    ]
+  },
+  {
+    "id": "fartlek_run",
+    "name": "Fartlek Run",
+    "gif_url": "videos/0116-fartlek_run.gif",
+    "category": "Running",
+    "target": "Cardio",
+    "equipment": "Track",
+    "instruction_steps": [
+      "Juego continuo de cambios de velocidad."
+    ]
+  },
+  {
+    "id": "freestyle_crol",
+    "name": "Freestyle Swimming",
+    "gif_url": "videos/0120-freestyle_crol.gif",
+    "category": "Swimming",
+    "target": "Cardio",
+    "equipment": "Pool",
+    "instruction_steps": [
+      "Mantén postura hidrodinámica en el agua.",
+      "Tracción de brazos alternativa con rolido de hombros.",
+      "Patada constante de crol y respiración lateral rítmica."
+    ]
+  },
+  {
+    "id": "backstroke",
+    "name": "Backstroke Swimming",
+    "gif_url": "videos/0121-backstroke.gif",
+    "category": "Swimming",
+    "target": "Cardio",
+    "equipment": "Pool",
+    "instruction_steps": [
+      "Estilo espalda boca arriba en el agua."
+    ]
+  },
+  {
+    "id": "breaststroke",
+    "name": "Breaststroke Swimming",
+    "gif_url": "videos/0122-breaststroke.gif",
+    "category": "Swimming",
+    "target": "Cardio",
+    "equipment": "Pool",
+    "instruction_steps": [
+      "Estilo braza con patada de rana simétrica."
+    ]
+  },
+  {
+    "id": "butterfly",
+    "name": "Butterfly Swimming",
+    "gif_url": "videos/0123-butterfly.gif",
+    "category": "Swimming",
+    "target": "Cardio",
+    "equipment": "Pool",
+    "instruction_steps": [
+      "Estilo mariposa con patada de delfín."
+    ]
+  },
+  {
+    "id": "kickboard_drills",
+    "name": "Kickboard Drills",
+    "gif_url": "videos/0124-kickboard_drills.gif",
+    "category": "Swimming",
+    "target": "Cardio",
+    "equipment": "Pool",
+    "instruction_steps": [
+      "Patada con tabla aislada."
+    ]
+  },
+  {
+    "id": "pull_buoy_drills",
+    "name": "Pull Buoy Drills",
+    "gif_url": "videos/0125-pull_buoy_drills.gif",
+    "category": "Swimming",
+    "target": "Cardio",
+    "equipment": "Pool",
+    "instruction_steps": [
+      "Nado con pull buoy entre muslos."
+    ]
+  },
+  {
+    "id": "swim_sprints",
+    "name": "Swim Sprints",
+    "gif_url": "videos/0126-swim_sprints.gif",
+    "category": "Swimming",
+    "target": "Cardio",
+    "equipment": "Pool",
+    "instruction_steps": [
+      "Sprints de velocidad en agua."
+    ]
+  }
+]
